@@ -69,5 +69,10 @@ Nirmaana — Understand your money. Build your future.
 ```text
 Since your GitHub Desktop is now working, I'd rather have you **fix the local README first**, then GitHub Desktop will show the change and you can commit/push it normally.
 
-If you want, send me a **screenshot of how the README currently looks on GitHub**, and I can tell you exactly what went wrong and whether we should replace it completely or just clean up the formatting.
+If you want, send me a **screenshot of how the README currently looks
+on GitHub**, and I can tell you exactly what went wrong and whether we should replace it completely or just clean up the formatting.
 ```
+
+
+
+-By A.A.G.
