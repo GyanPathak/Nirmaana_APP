@@ -1,3 +1,13 @@
-.turbo/
-
+# Dependencies
 node_modules/
+
+# Build outputs
+dist/
+coverage/
+.turbo/
+.expo/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example

@@ -1,4 +1,4 @@
-<escape>{
+{
   "$schema": "https://turbo.build/schema.json",
   "tasks": {
     "build": {
@@ -23,4 +23,4 @@
       "cache": false
     }
   }
-}</escape>
+}
